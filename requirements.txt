@@ -1,0 +1,21 @@
+# https://pypi.org/
+# web frame
+fastapi==0.116.0
+uvicorn==0.34.0
+
+# database ORM
+SQLAlchemy==2.0.40
+alembic==1.16.0
+
+# environmental variables
+python-dotenv==1.0.1
+
+# external API calls
+requests==2.32.5
+
+# production server
+gunicorn==22.0.0
+
+# testing
+pytest==8.4.0
+pytest-cov==6.1.0
